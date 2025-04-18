@@ -1,7 +1,7 @@
 
 # LeetCode Top 150 in Java 🇧🇷➡️🌍
 
-This repository contains my Java solutions for the "Top 150 LeetCode Questions" commonly asked in technical interviews at major tech companies.
+This repository will contain my Java solutions for the "Top 150 LeetCode Questions" commonly asked in technical interviews at major tech companies.
 
 ## 📌 About
 
