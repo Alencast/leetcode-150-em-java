@@ -26,4 +26,4 @@ I'm solving the problems by topic (e.g. Arrays, Strings, HashMaps...), starting 
 
 ## 🚀 Progress
 
-Check the `/topics` folders to track solved problems by category.
+Check the folders to track solved problems by category. (it will probabbly take a while to finish them all, but i'll get to it eventually)
